@@ -1,0 +1,1 @@
+export '../../view_model/bindings/login/login_binding.dart';
